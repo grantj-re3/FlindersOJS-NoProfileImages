@@ -1,4 +1,4 @@
-# FlindersOJS-NoUserImages
+# FlindersOJS-NoProfileImages
 
 ## Purpose
 
