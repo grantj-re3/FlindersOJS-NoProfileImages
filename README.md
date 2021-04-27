@@ -2,7 +2,11 @@
 
 ## Purpose
 
-Prevent OJS v3 users from uploading user-profile images.
+Prevent OJS v3 users from uploading images within their user-profile via:
+- Profile > Public tab > Profile Image
+- Profile > Public tab > Bio Statement upload
+- Profile > Contact tab > Signature upload
+- Profile > Contact tab > Mailing Address upload
 
 
 ## References
