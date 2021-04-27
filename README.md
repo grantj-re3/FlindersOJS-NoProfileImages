@@ -8,6 +8,10 @@ Prevent OJS v3 users from uploading images within their user-profile via:
 - Profile > Contact tab > Signature upload
 - Profile > Contact tab > Mailing Address upload
 
+The principle has been verified for OJS versions:
+- 3.1.2.4
+- 3.2.0.3
+- 3.3.0.5
 
 ## References
 
